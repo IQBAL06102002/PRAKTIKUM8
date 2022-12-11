@@ -32,12 +32,12 @@ Disini kita perlu menambahkan method seperti menambahkan, menampilkan, menghapus
 
 # 4. Membuat Method Tambah
 Disini kita perlu menambahkan method seperti menambahkan, menampilkan, menghapus, dan mengubah data mahasiswa. Pada sebuah method tambah() ini berfungsi untuk menambahkan data. Dalam method ini kita menggunakan append() supaya data yang terakhir ditambahkan, ada di urutan list paling akhir.
-![](8.png)
+![](7.png)
 
 # 5. Membuat Method Lihat 
 Method lihat() Berguna untuk menampilkan seluruh data yang telah ditambahkan. Bilamana data tersebut belum diinput/data tersebut sudah terhapus, Maka akan keluar ouput dengan tulisan "TIDAK ADA DATA". Kita menggunakan for loop untuk menampilkan banyaknya data. 
 Nantinya data akan ditampilkan sebanyak n kali.
-![](9.png)
+![](8.png)
 
 
 
